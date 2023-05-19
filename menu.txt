@@ -2,3 +2,5 @@
 - Gulai
 - Ayam Goreng
 - Lontong Sayur
+- Nasi Goreng
+- Nasi Bakar
